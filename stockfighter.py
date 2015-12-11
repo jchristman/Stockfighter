@@ -127,12 +127,12 @@ class Stockfighter:
 
     class Web:
         class URLS:
-            GET_LEVELS =    'https://staging.stockfighter.io/ui/levels'
-            START_LEVEL =   'https://staging.stockfighter.io/gm/levels/%(name)s'
-            RESUME_LEVEL =  'https://staging.stockfighter.io/gm/instances/%(id)s/resume'
-            RESTART_LEVEL = 'https://staging.stockfighter.io/gm/instances/%(id)s/restart'
-            STOP_LEVEL =    'https://staging.stockfighter.io/gm/instances/%(id)s/stop'
-            LEVEL_INFO =    'https://staging.stockfighter.io/gm/instances/%(id)s'
+            GET_LEVELS =    'https://www.stockfighter.io/ui/levels'
+            START_LEVEL =   'https://www.stockfighter.io/gm/levels/%(name)s'
+            RESUME_LEVEL =  'https://www.stockfighter.io/gm/instances/%(id)s/resume'
+            RESTART_LEVEL = 'https://www.stockfighter.io/gm/instances/%(id)s/restart'
+            STOP_LEVEL =    'https://www.stockfighter.io/gm/instances/%(id)s/stop'
+            LEVEL_INFO =    'https://www.stockfighter.io/gm/instances/%(id)s'
 
             HEARTBEAT =     'https://api.stockfighter.io/ob/api/heartbeat'
             VENUE =         'https://api.stockfighter.io/ob/api/venues/%(venue)s/heartbeat'
