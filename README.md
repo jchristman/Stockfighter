@@ -1,7 +1,7 @@
 Stockfighter
 ============
 
-A python stockfighter API that can be used to play [Stockfighter](https://staging.stockfighter.io/).
+A python stockfighter API that can be used to play [Stockfighter](https://www.stockfighter.io/).
 
 Please note that I'm being purposely vague in certain areas of documentation, as this is a learning environment and it will benefit you to read the documentation provided by Starfighters. Please, please, please read their [documentation](https://starfighter.readme.io/). This library provides ZERO assistance in regards to strategy - it will only hit API endpoints and perform functions if you ask it to.
 
