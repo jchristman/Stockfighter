@@ -7,6 +7,17 @@ Please note that I'm being purposely vague in certain areas of documentation, as
 
 That being said, if there are any improvements you feel could be made, please open an issue!
 
+Requirements
+============
+
+This library is built on:
+
+ * Python 2.7+
+ * ws4py
+ * requests
+
+You should ```pip install``` the dependencies...
+
 Setup
 =====
 
