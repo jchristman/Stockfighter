@@ -26,6 +26,8 @@ Usage
 To get started, you will need to create a Stockfighter object. Most of these calls are used in the test.py script, so if you want an example of their usage, check that out.
 
 ```python
+from stockfighter import Stockfighter
+
 fighter = Stockfighter(VENUE, ACCOUNT) # Substitute the venue and account numbers here
 ```
 
